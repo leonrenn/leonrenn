@@ -2,8 +2,9 @@
 
 ## Physicist and sportsman that loves to code!!
 
-- I am currently working in Software Development as a working student
-- I am trying to improve my knowledge about computer science with different projects
+- Working in **Software and Detector Development** as working student
+- Trying to improve my knowledge about computer science with different projects
+- Interested in projects that connect sports and science
 
 
 ### Languages and Tools:
@@ -12,9 +13,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
+<br><br/>
 ### Connect with Me:
 
-[![website](./img/instagram-dark.svg)]
-[instagram]: https://instagram.com/leon_renn
+https://instagram.com/leon_renn
 
 
