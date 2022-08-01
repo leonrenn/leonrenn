@@ -2,8 +2,6 @@
 
 ## Physicist and sportsman that loves to code!!
 
-- Working in **Software and Detector Development** as working student
-- Trying to improve my knowledge about computer science with different projects
 - Interested in projects that connect sports and science
 - Using VIM to edit code
 
